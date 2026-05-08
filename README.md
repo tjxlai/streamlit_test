@@ -1,2 +1,3 @@
 # streamlit_test
-just play
+ai_test
+
